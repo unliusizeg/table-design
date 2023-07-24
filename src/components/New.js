@@ -13,7 +13,7 @@ const New = () => {
       </div>
 
       <div className="flex justify-center items-center my-auto rounded-lg mt-4 bg-orange-400 text-white w-36  h-12 hover:bg-orange-500 from-slate-950">
-        Top Artist List
+        Top Artist List          
       </div>
       <div className="flex items-center justify-center rounded-lg bg-gradient-to-r from-orange-700 w-96 h-64 mt-3">
         <table style={{ borderCollapse: "collapse", width: "900px" }}>
